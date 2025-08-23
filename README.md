@@ -1,2 +1,14 @@
-# 2flash
-A simple tool to flash TWRP, custom ROMs and system images in Android
+# 2Flash
+<center>
+  <p align="center">
+██████╗░███████╗██╗░░░░░░█████╗░░██████╗██╗░░██╗
+╚════██╗██╔════╝██║░░░░░██╔══██╗██╔════╝██║░░██║
+░░███╔═╝█████╗░░██║░░░░░███████║╚█████╗░███████║
+██╔══╝░░██╔══╝░░██║░░░░░██╔══██║░╚═══██╗██╔══██║
+███████╗██║░░░░░███████╗██║░░██║██████╔╝██║░░██║
+╚══════╝╚═╝░░░░░╚══════╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝
+  </p>
+</center>
+
+### About 2Flash:
+2Flash is a simple tool to execute flashing of TWRP, custom ROMs and native system images in Android.
