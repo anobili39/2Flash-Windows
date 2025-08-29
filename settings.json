@@ -1,0 +1,15 @@
+{
+   "settings": {
+    "adbpathfolder": "C:/platform-tools"
+  },
+  "config_fastbootflash": {
+    "boot": "C:/platform-tools/customROM/boot.img",
+    "system": "C:/platform-tools/customROM/system.img",
+    "vendor": "C:/platform-tools/customROM/vendor.img",
+    "recovery": "C:/platform-tools/customROM/recovery.img"
+  },
+  "config_twrpflash": {
+    "twrpfilepath": "C:/platform-tools/TWRPmotorolaone.img",
+    "systemzipfile": "C:/platform-tools/customRom.zip"
+  }
+}
